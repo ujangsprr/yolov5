@@ -1,0 +1,2 @@
+ketik " pip install -r requirements.txt " pada terminal pycharm
+lalu tekan enter
